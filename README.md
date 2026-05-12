@@ -4,7 +4,7 @@
 
 2. Responde a la pregunta: ¿Existe alguna correlación entre los precios de las acciones de ambas empresas? Explica tanto de forma gráfica como a través del índice de correlación discutido en esta lección.
 
-<img width="841" height="402" alt="image" src="https://github.com/user-attachments/assets/d74c5021-3962-4f27-9b15-aa6490f6d81e" />
+<img width="488" height="392" alt="image" src="https://github.com/user-attachments/assets/4db76f16-bd5e-4633-8477-87de5fa8865e" />
 
 <img width="505" height="364" alt="image" src="https://github.com/user-attachments/assets/2ff548d5-ade9-4c24-a310-4bb4769f7e28" />
 
