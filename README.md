@@ -2,7 +2,7 @@
 
 1. Considera la información histórica diaria de precios para las empresas IBM y Walmart contenida en el sitio de Yahoo finance (http://finance.yahoo.com) durante los últimos 5 años. Nomenclatura  y componentes de las Series de Tiempo.
 
-2. Responde a la pregunta: ¿Existe alguna correlación entre los precios de las acciones de ambas empresas? Explica tanto de forma gráfica como a través del índice de correlación discutido en esta lección
+2. Responde a la pregunta: ¿Existe alguna correlación entre los precios de las acciones de ambas empresas? Explica tanto de forma gráfica como a través del índice de correlación discutido en esta lección.
 
 <img width="841" height="402" alt="image" src="https://github.com/user-attachments/assets/d74c5021-3962-4f27-9b15-aa6490f6d81e" />
 
